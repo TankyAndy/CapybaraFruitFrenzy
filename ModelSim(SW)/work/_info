@@ -1,0 +1,315 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dW:/ece241/ece241project/ModelSim
+vAltera_UP_PS2_Command_Out
+Z1 !s110 1732496527
+!i10b 1
+!s100 ZjDIV:z^W4aE7ECD]ReVK0
+Idb7EIEHXlneO[5V4S7hcl2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dW:/ece241/project/finalproject/ModelSim(SW)
+Z4 w1732496516
+8Altera_UP_PS2_Command_Out.v
+FAltera_UP_PS2_Command_Out.v
+Z5 L0 10
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1732496527.000000
+Z8 !s107 vga_pll.v|vga_controller.v|vga_address_translator.v|vga_adapter.v|testbench.v|finalproject.v|PS2_Demo.v|PS2_Controller.v|Hexadecimal_To_Seven_Segment.v|Altera_UP_PS2_Data_In.v|Altera_UP_PS2_Command_Out.v|
+Z9 !s90 -reportprogress|300|Altera_UP_PS2_Command_Out.v|Altera_UP_PS2_Data_In.v|Hexadecimal_To_Seven_Segment.v|PS2_Controller.v|PS2_Demo.v|finalproject.v|testbench.v|vga_adapter.v|vga_address_translator.v|vga_controller.v|vga_pll.v|
+!i113 1
+Z10 tCvgOpt 0
+n@altera_@u@p_@p@s2_@command_@out
+vAltera_UP_PS2_Data_In
+R1
+!i10b 1
+!s100 ee^TmQcGZ[E_>UMojW[Zg0
+ITce;AGaoN;k@Va`Qgog2c3
+R2
+R3
+R4
+8Altera_UP_PS2_Data_In.v
+FAltera_UP_PS2_Data_In.v
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@altera_@u@p_@p@s2_@data_@in
+vfinalproject
+Z11 !s110 1732496529
+!i10b 1
+!s100 kWPOCC4nYRo`9a930FZHW0
+I]QVKgekaAS5nn6:VfVZY`3
+R2
+R3
+Z12 w1732495900
+Z13 8finalproject.v
+Z14 Ffinalproject.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vfruits
+!s110 1731967864
+!i10b 1
+!s100 <VAZZ7TNQSG6z19fJbBYS1
+IARM5N1C<UWgDPHIaBNQmW1
+R2
+Z15 dW:/ece241/project/milestone1/ModelSim(SW)
+w1731875293
+Z16 8milestone1.v
+Z17 Fmilestone1.v
+L0 245
+R6
+r1
+!s85 0
+31
+!s108 1731967859.000000
+Z18 !s107 vga_pll.v|vga_controller.v|vga_address_translator.v|vga_adapter.v|testbench.v|milestone1.v|
+Z19 !s90 -reportprogress|300|milestone1.v|testbench.v|vga_adapter.v|vga_address_translator.v|vga_controller.v|vga_pll.v|
+!i113 1
+R10
+vHexadecimal_To_Seven_Segment
+R1
+!i10b 1
+!s100 >j7dlo6D<6b_bXMV;SleR2
+I3L<9loK2dL12zkCWJAZQY3
+R2
+R3
+w1732496517
+8Hexadecimal_To_Seven_Segment.v
+FHexadecimal_To_Seven_Segment.v
+L0 9
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@hexadecimal_@to_@seven_@segment
+vmileone
+!s110 1731353380
+!i10b 1
+!s100 o`Ee=]>C6O1`QHVg3EZJ10
+I]_oPV`Bf0=edH97S:>`0<0
+R2
+R0
+w1731353373
+R16
+R17
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1731353379.000000
+Z20 !s107 testbench.v|milestone1.v|
+Z21 !s90 -reportprogress|300|milestone1.v|testbench.v|
+!i113 1
+R10
+vmilestone1
+!s110 1732046901
+!i10b 1
+!s100 oWjU^h;_OM^BoKmZ<l6ZV3
+IIXKdTMIDHO[;1T4CUIn?51
+R2
+R15
+w1731973161
+R16
+R17
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1732046901.000000
+R18
+R19
+!i113 1
+R10
+vmilestone1_tb
+!s110 1731341967
+!i10b 1
+!s100 eGg<B^75@gIIVdbTe;^VJ3
+IJmfBMSff1C<PSl]jgSHcK3
+R2
+R0
+w1731300728
+Z22 8testbench.v
+Z23 Ftestbench.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1731341967.000000
+R20
+R21
+!i113 1
+R10
+vPS2_Demo
+R11
+!i10b 1
+!s100 kV0TIn5cOzB=0bZDlH1:b2
+IznI537dREL_6iN0ZGARo51
+R2
+R3
+w1732496519
+8PS2_Demo.v
+FPS2_Demo.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@p@s2_@demo
+vseg7_binaryToHex
+R11
+!i10b 1
+!s100 U82?R5]UDRXO6>VJajR7>0
+I`hbB2Q=a1@AVg^VcZjFUG3
+R2
+R3
+R12
+R13
+R14
+L0 409
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+nseg7_binary@to@hex
+vtestbench
+Z24 !s110 1732496530
+!i10b 1
+!s100 EKkA59;RDF<A2glT0MZ8Z3
+INOizVRZlo:Z[WBAkgAdg73
+R2
+R3
+w1732496336
+R22
+R23
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vvga_adapter
+R24
+!i10b 1
+!s100 JkC87AnGbhN@ejmMnP:1B0
+Ig`PhP:M7:`la?gDf7GB6Z3
+R2
+R3
+w1731442636
+8vga_adapter.v
+Fvga_adapter.v
+L0 51
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vvga_address_translator
+R24
+!i10b 1
+!s100 F6:mCJ06_K_U;>0LKX8D;2
+IP=EMTYL[Qd:7QKSz`?9BW3
+R2
+R3
+w1731442640
+8vga_address_translator.v
+Fvga_address_translator.v
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vvga_controller
+R24
+!i10b 1
+!s100 z2W3U;`zgTj<=M@NGb;CT1
+IU9eY]TJ>h=0zg8:Tlh`CO1
+R2
+R3
+w1731442628
+8vga_controller.v
+Fvga_controller.v
+L0 8
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vvga_pll
+R24
+!i10b 1
+!s100 4XSTjD`VEiamX^n1@5J`b3
+InS4CFLIEOHD9AEaVkoljA1
+R2
+R3
+w1731442629
+8vga_pll.v
+Fvga_pll.v
+L0 36
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
